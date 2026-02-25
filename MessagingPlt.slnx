@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MessagingPlt.API/MessagingPlt.API.csproj" />
+  <Project Path="MessagingPlt.Application/MessagingPlt.Application.csproj" />
+  <Project Path="MessagingPlt.Domain/MessagingPlt.Domain.csproj" />
+  <Project Path="MessagingPlt.Infrastructure/MessagingPlt.Infrastructure.csproj" />
+  <Project Path="MessagingPlt.Persistence/MessagingPlt.Persistence.csproj" />
+</Solution>

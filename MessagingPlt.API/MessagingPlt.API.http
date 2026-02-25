@@ -1,0 +1,6 @@
+@MessagingPlt.API_HostAddress = http://localhost:5213
+
+GET {{MessagingPlt.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
